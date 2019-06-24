@@ -1,0 +1,18 @@
+{
+    "BASEA":{
+        "database": {
+            "server": "192.168.1.199",
+            "database": "BASE",
+            "user": "sa",
+            "password": "1234"
+        }
+    },
+    "BASEB":{
+        "database": {
+            "server": "192.168.1.199",
+            "database": "BASE",
+            "user": "sa",
+            "password": "1234"
+        }
+    }
+}
